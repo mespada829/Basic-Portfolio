@@ -1,5 +1,4 @@
 # Basic-Portfolio
-Basic Portfolio: HTML5 & CSS3
 <br>
 A simple basic portfolio only using HTML5 and CSS3. 
 <br>
